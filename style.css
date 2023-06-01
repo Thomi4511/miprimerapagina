@@ -143,3 +143,6 @@ footer {
   justify-content: center;
   min-height: 200px;
 }
+.greeting {
+  text-align: center ;
+}
